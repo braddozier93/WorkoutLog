@@ -1,5 +1,6 @@
 # WorkoutLog
-All of my screenshots for each one of the my requests are in the issues section of this repo. 
+All of my screenshots for each one of the my requests are also in the issues section of this repo. 
+I've also added screenshots of my pgadmin user and log tables after doing some testing.
 
 user/register POST---
 https://user-images.githubusercontent.com/63806708/82836023-b870c200-9e93-11ea-9754-7df8e34e9303.png
@@ -26,6 +27,8 @@ PG ADMIN USER--
 https://user-images.githubusercontent.com/63806708/82836633-de4a9680-9e94-11ea-8432-3dea2e66aba0.png
 
 PG ADMIN LOG--
+https://user-images.githubusercontent.com/63806708/82836591-c8d56c80-9e94-11ea-84aa-0d2e938a3850.png
+
 
 
 
