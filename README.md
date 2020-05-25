@@ -23,6 +23,10 @@ https://user-images.githubusercontent.com/63806708/82836492-96c40a80-9e94-11ea-8
 https://user-images.githubusercontent.com/63806708/82836553-af342500-9e94-11ea-843f-95f1cbf09e66.png
 
 PG ADMIN USER--
+https://user-images.githubusercontent.com/63806708/82836633-de4a9680-9e94-11ea-8432-3dea2e66aba0.png
+
+PG ADMIN LOG--
+
 
 
 
