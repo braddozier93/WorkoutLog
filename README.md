@@ -17,6 +17,9 @@ https://user-images.githubusercontent.com/63806708/82836386-667c6c00-9e94-11ea-9
 https://user-images.githubusercontent.com/63806708/82836458-82800d80-9e94-11ea-8ea6-86cf5c512aa4.png
 
 /log/id# PUT--
+https://user-images.githubusercontent.com/63806708/82836492-96c40a80-9e94-11ea-8a0e-2cbf81806941.png
+
+/log/id# DELETE--
 
 
 
