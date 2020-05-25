@@ -1,12 +1,25 @@
-var express = require('express');
-var app = express();
+require('dotenv').config();
 
-const workout = require('./controllers/workoutcontroller');
+const express = require('express');
+const app = express();
 
-app.listen(3000, function(){
-    console.log('App is listening on 3000.')
+const logs = require('./controllers/logcontroller');
+const users = require('./controllers/usercontroller');
+
+const sequelize = require('./db');
+sequelize.sync();
+app.use(express.json());
+app.use(require('./middleware/headers'));
+
+app.listen(process.env.PORT, function(){
+    console.log(`App is listening on ${process.env.PORT}!`)
 });
 
+app.use('/user', users);
+app.use(require('./middleware/validate-session'));
+app.use('/log', logs);
+
+
 app.use('/api/test', function(req, res){
-    res.send("This is test data from the /api/test endpoint. It's from the server.");
+    res.send("This is test data from the /api/test endpoint. It's from the server!");
 });
