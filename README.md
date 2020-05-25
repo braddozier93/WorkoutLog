@@ -20,6 +20,10 @@ https://user-images.githubusercontent.com/63806708/82836458-82800d80-9e94-11ea-8
 https://user-images.githubusercontent.com/63806708/82836492-96c40a80-9e94-11ea-8a0e-2cbf81806941.png
 
 /log/id# DELETE--
+https://user-images.githubusercontent.com/63806708/82836553-af342500-9e94-11ea-843f-95f1cbf09e66.png
+
+PG ADMIN USER--
+
 
 
 
