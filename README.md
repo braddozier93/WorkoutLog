@@ -11,5 +11,9 @@ https://user-images.githubusercontent.com/63806708/82836272-3fbe3580-9e94-11ea-9
 https://user-images.githubusercontent.com/63806708/82836345-549ac900-9e94-11ea-9786-75f69e97ca4c.png
 
 /log GET--
+https://user-images.githubusercontent.com/63806708/82836386-667c6c00-9e94-11ea-929e-059a5cec52df.png
+
+/log/id# GET--
+
 
 
